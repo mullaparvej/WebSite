@@ -3,4 +3,4 @@ services :
   web :
      image : "mullaparvej/website:latest"
      ports :
-         - "8000:8000"
+         - "8070:8070"
